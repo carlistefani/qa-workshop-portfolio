@@ -17,7 +17,6 @@ La experiencia de compra onlina brinda comodidad y seguridad al cliente
 
 # Usuarios principales
 Cliente (conocido)
-Admin (posible)
 
 # Funcionalidades principales
 Login
