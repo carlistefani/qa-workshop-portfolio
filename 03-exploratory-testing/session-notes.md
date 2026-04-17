@@ -33,7 +33,8 @@ Se realizan pruebas con distintos tipos de datos para verificar la respuesta de 
 - Secciones de la pagina
 
 ## LISTA DE RIESGOS 
-(Resume posibles problemas importantes detectados o inferidos)
+- Malfuncinamiento de la barra puede enviar al usuario a una pagina rota
+- Resultados incompletos o erroneos
 
 ## DEFECTOS (BUGS) 
 - BUG BB 01: La busqueda no devuelve resultados con el codigo del item o producto
@@ -42,4 +43,4 @@ Se realizan pruebas con distintos tipos de datos para verificar la respuesta de 
 - BUG BB 04: La barra de busqueda permanece populada luego de realizar la busqueda
 
 ## INCIDENTES (ISSUES) 
-(Registra dudas, vacíos o problemas en el conocimiento del sistema )
+- No contamos con un documento de requerimientos que nos indique el alcance de la funcion de la busqueda
