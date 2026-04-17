@@ -11,3 +11,5 @@
 - Riesgo 3
 - Riesgo 5
 ## Justificación de exclusiones
+- El malfuncinamiento del riesgo 3 puede ser sobrepasado por otras mecanicas
+- El riesgo 5 tiene un puntaje de nivel bajo, por lo que puede ser pospuesto
